@@ -8,3 +8,7 @@
 
 ### HOW CAN IT HELP YOU ? 💁‍♂️
 It can basically help you to dicide whether the movie you wanted to watch is good enough to watch or not. Moreover it can save your time by just seeing the review, rather than the primitive method to watch the enitre movie and say is it **good** or **bad**.
+
+### TECH STACKS USED
+- `Dataset used` : IMDB dataset
+- `Algorithms used ` : Deep Neural Network (binary-class classification)
