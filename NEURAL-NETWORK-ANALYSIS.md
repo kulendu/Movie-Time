@@ -35,4 +35,8 @@ Here's a clear difference between the two activation functions.
 	<img src = 'https://github.com/kulendu/Movie-Time/blob/master/assets/1_XxxiA0jJvPrHEJHD4z893g.png'> <br>
 </p>
 
+- `Analysing the evaluation` :
 
+![](https://github.com/kulendu/Movie-Time/blob/master/assets/acc-VS-loss.png)
+![](https://github.com/kulendu/Movie-Time/blob/master/assets/accurcay-VS-val_acc.png)
+![](https://github.com/kulendu/Movie-Time/blob/master/assets/loss-VS-val_loss.png)
