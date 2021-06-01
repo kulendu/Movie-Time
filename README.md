@@ -1,4 +1,9 @@
 ### MOVIE-TIME
+<p align='center'>
+    <img src='assets/giphy.gif'>
+</p>
+
+
 `Movie-time` 🎥 is a movie review recommendation system that can say whether the review of the movie you wanted to see is positive or negative. 
 
 ### HOW CAN IT HELP YOU ? 💁‍♂️
