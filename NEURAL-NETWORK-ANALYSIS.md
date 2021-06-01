@@ -8,4 +8,4 @@ As a convention, "0" does not stand for a specific word, but instead is used to 
 	- Second layer (hidden layer) : 
 	- Third layer (final output layer) :
 
-	<img src="https://github.com/kulendu/Movie-Time/tree/master/assets/Neural net.png" width=100px height=70px>
+	<img src="https://github.com/kulendu/Movie-Time/blob/master/assets/Neural%20net.png" width=100px height=70px>
