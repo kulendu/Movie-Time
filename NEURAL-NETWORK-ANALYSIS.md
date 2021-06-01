@@ -3,4 +3,9 @@ This file contains all the ***Neural Network Analysis*** information.
 
 As a convention, "0" does not stand for a specific word, but instead is used to encode any unknown word. [The dataset can be found here](https://ai.stanford.edu/~amaas/data/sentiment/)
 
-- `Building and analysing the ***neural network***`: 
+- `Building and analysing the ***neural network***`: The neural network used here is a three layered NN. It goes as follows:
+	- First layer (input layer) :
+	- Second layer (hidden layer) : 
+	- Third layer (final output layer) :
+
+	<img src="https://github.com/kulendu/Movie-Time/tree/master/assets/Neural net.png" width=100px height=70px>
