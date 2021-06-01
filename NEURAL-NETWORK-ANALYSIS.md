@@ -4,9 +4,9 @@ This file contains all the ***Neural Network Analysis*** information.
 As a convention, "0" does not stand for a specific word, but instead is used to encode any unknown word. [The dataset can be found here](https://ai.stanford.edu/~amaas/data/sentiment/)
 
 - `Building and analysing the neural network`: The neural network used here is a three layered NN. It goes as follows:
-	- First layer (*input layer*) : Densely connected with the second layer, with input shape(10000, ) and with 16 neurons/units per layer. A	ctivation function used: 'relu' - Re	ctified Linear unit.
-	- Second layer (*hidden layer*) : Densely connected with the second layer, with input shape(10000, ). Activation function used: 'relu' - 	Rectified Linear unit, with the same 16 units/neurons per layer.
-	- Third layer (*final output layer)* : This is the final layer with 1 unit (uni-class output or the probabilitic value) and with an activ	ation funciton of 'sigmoid'. 
+	- **First layer (*input layer*)** : Densely connected with the second layer, with input shape(10000, ) and with 16 neurons/units per layer. A	ctivation function used: 'relu' - Re	ctified Linear unit.
+	- **Second layer (*hidden layer*)** : Densely connected with the second layer, with input shape(10000, ). Activation function used: 'relu' - 	Rectified Linear unit, with the same 16 units/neurons per layer.
+	- **Third layer (*final output layer*)** : This is the final layer with 1 unit (uni-class output or the probabilitic value) and with an activ	ation funciton of 'sigmoid'. 
 
 	<img src="https://github.com/kulendu/Movie-Time/blob/master/assets/Neural%20net.png">
 
