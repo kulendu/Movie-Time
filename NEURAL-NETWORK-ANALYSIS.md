@@ -8,7 +8,9 @@ As a convention, "0" does not stand for a specific word, but instead is used to 
 	- **Second layer (*hidden layer*)** : Densely connected with the second layer, with input shape(10000, ). Activation function used: 'relu' - 	Rectified Linear unit, with the same 16 units/neurons per layer.
 	- **Third layer (*final output layer*)** : This is the final layer with 1 unit (uni-class output or the probabilitic value) and with an activ	ation funciton of 'sigmoid'. 
 
+<p align='center'>
 	<img src="https://github.com/kulendu/Movie-Time/blob/master/assets/Neural%20net.png">
+</p>
 
 - `Brief on the activation functions` : Activation fucntions are used to introduce non-linearity into our neural-network<br>
 - ### SIGMOID FUNCTION 
